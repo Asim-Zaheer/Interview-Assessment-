@@ -20,7 +20,7 @@ A simple User Management Dashboard built with **React.js (TypeScript)**, **MUI**
 - **MUI** for UI components
 - **React Hook Form + Yup** (Form handling & validation)
 - **SCSS** for custom styling
-- **Redux for state management
+- **Redux** for state management
 
 ---
  
