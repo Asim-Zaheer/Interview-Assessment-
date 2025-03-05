@@ -8,7 +8,7 @@ A simple User Management Dashboard built with **React.js (TypeScript)**, **MUI**
 
 - View, Add, Edit, and Delete Users
 - Form validation using **React Hook Form & Yup**
-- Global state management with **Context API or Zustand**
+- Global state management with **Redux toolkit**
 - Responsive design using **MUI**
 - Custom styles with **SCSS**
 
@@ -20,7 +20,7 @@ A simple User Management Dashboard built with **React.js (TypeScript)**, **MUI**
 - **MUI** for UI components
 - **React Hook Form + Yup** (Form handling & validation)
 - **SCSS** for custom styling
-- **Context API** (or Zustand) for state management
+- **Redux for state management
 
 ---
  
